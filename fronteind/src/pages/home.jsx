@@ -24,7 +24,7 @@ function Home() {
 
     const fetchProducts = async () => {
         try {
-            const url = https://firstapp-ivory-theta.vercel.app/products`;
+            const url = firstapp-ivory-theta.vercel.app/products;
             const headers = {
                 headers: {
                     'Authorization': localStorage.getItem('token')
