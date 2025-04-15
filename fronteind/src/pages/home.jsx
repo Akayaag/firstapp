@@ -24,8 +24,7 @@ function Home() {
 
     const fetchProducts = async () => {
         try {
-            const url = firstapp-jwioi62jt-aman-singhs-projects-eb3c6ebc.vercel.app
-/products`;
+            const url = firstapp-jwioi62jt-aman-singhs-projects-eb3c6ebc.vercel.app/products`;
             const headers = {
                 headers: {
                     'Authorization': localStorage.getItem('token')
