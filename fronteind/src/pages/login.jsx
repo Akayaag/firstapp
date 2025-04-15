@@ -28,7 +28,7 @@ function Login() {
             return handleError('email and password are required')
         }
         try {
-            const url = firstapp-jwioi62jt-aman-singhs-projects-eb3c6ebc.vercel.app/auth/login`;
+            const url =https://firstapp-ivory-theta.vercel.app/auth/login`;
             const response = await fetch(url, {
                 method: "POST",
                 headers: {
